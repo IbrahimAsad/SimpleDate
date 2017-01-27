@@ -1,0 +1,31 @@
+{
+  "name": "Assad/SimpleDate",
+  "type": "library",
+  "description": ".",
+  "keywords": [
+    "date",
+    "time"
+  ],
+  "license": "MIT",
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "SimpleDate\\": "src/SimpleDate/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Tests\\": "tests/"
+    }
+  },
+  "authors": [
+  {
+    "name": "Ibrahim Assad",
+    "email": "ibra.asad@gmail.com",
+  }
+],
+}
